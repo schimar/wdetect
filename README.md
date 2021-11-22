@@ -42,7 +42,7 @@ python3 python/coco_json_utils.py -md datasets/output/mask_definitions.json -di 
 
 ## 2) training the model and performing visual validation
 
-Note that in the following code, the steps for training the model are commented out. Change this, if you want to run training yourself. Further, I changed the visualize.display_instances function in the Mask_RCNN repo to write a *png* file for the resulting output image.
+Note that in the following code, the steps for training the model are commented out. Change this, if you want to run training yourself. Further, I changed the visualize.display_instances function in the Mask_RCNN repo to write the resulting output image to ```cocosynth/datasets/output/plt/test.png```.
 
 ```
 python3 wdetect.py
