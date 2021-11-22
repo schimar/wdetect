@@ -4,10 +4,13 @@
 
 This repository exists solely to reproduce my first version of a weed detection neural network. The code mostly comes from the [cocosynth](https://github.com/akTwelve/cocosynth) and [matterport's Mask R-CNN](https://github.com/matterport/Mask_RCNN) repositories. For detailed info on software dependencies, please refer to the [cocosynth](https://github.com/akTwelve/cocosynth) repository. Make sure that the two folders are in your working directory, and change the relative paths if needed. 
 
-There are two basic steps to be done, namely 
+There are two basic steps to be done, namely: 
 
 1) creating the synthetic (COCO-like) images and *json* files  
 2) training the model and performing preliminary visual validation 
+
+
+
 
 
 ========================================================================================
