@@ -10,7 +10,7 @@ There are two basic steps to be done, namely:
 2) training the model and performing preliminary visual validation 
 
 
-
+<br/>
 
 
 ========================================================================================
